@@ -21,6 +21,6 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "crc32" : "*",
-    "async" : "0.*"
+    "async" : "0.x"
   }
 }
