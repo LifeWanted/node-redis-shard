@@ -20,6 +20,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "crc32" : "*"
+    "crc32" : "*",
+    "async" : "0.*"
   }
 }
