@@ -1,6 +1,6 @@
 {
   "name": "redis_shard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A pure Javascript Redis sharding module.",
   "main": "index.js",
   "scripts": {
